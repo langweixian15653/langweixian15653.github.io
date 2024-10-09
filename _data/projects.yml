@@ -2,15 +2,23 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Operational Analysis of Virtual Digital Persona IP Anthropomorphism– A Case Study on Lil Miquela
+  role: Group Leader
+  duration: 2022 &mdash; 2023
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: ∙ Framework Establishment: Led team members to review relevant cutting-edge literature and materials to define research
+objectives.
+∙ Data Crawling: Used Python and a web scraper to collect visual and textual content, as well as comment data, from
+Miquela’s Instagram account. After random sampling, obtained the specific content of 423 posts.
+∙ Open Coding: Led team members in using Nvivo to process and analyze the scraped visual and textual content, and
+conducted coding based on grounded theory.
+∙ Data Analysis: Analyzed the coded data, compared it with the operation of virtual digital personas in China, and derived
+multiple operational strategy recommendations.
+∙ Project Achievements: Successfully obtained the “Challenge Cup” Academic Fund.
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
+  role: Group Leader
   duration: 2007 &mdash; Present
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
