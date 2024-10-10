@@ -1,24 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: Operational Analysis of Virtual Digital Persona IP Anthropomorphism– A Case Study on Lil Miquela
-  role: Group Leader
-  duration: 2022 &mdash; 2023
+# Springfield Community Outreach Group
+- project: Dedicated to Building an International Leading IP Super Workshop
+  role: Co-Founder & Organizer
+  duration: Jul,2023 &mdash; Jul,2024
   # url: "#"
-  description: ∙ Framework Establishment: Led team members to review relevant cutting-edge literature and materials to define research
-objectives.
-∙ Data Crawling: Used Python and a web scraper to collect visual and textual content, as well as comment data, from
-Miquela’s Instagram account. After random sampling, obtained the specific content of 423 posts.
-∙ Open Coding: Led team members in using Nvivo to process and analyze the scraped visual and textual content, and
-conducted coding based on grounded theory.
-∙ Data Analysis: Analyzed the coded data, compared it with the operation of virtual digital personas in China, and derived
-multiple operational strategy recommendations.
-∙ Project Achievements: Successfully obtained the “Challenge Cup” Academic Fund.
+  description: After identifying the companies' core strengths, we decided to establish a new path for creative business IP within the blockchain economy as our market strategy direction. This led us to restructure the business logic into two major segments Art IP Incubation and NFT (Non-fungible Token) Asset Issuance, on which we built a solid business model and provided visual presentation recommendations. To support this model, we facilitated connections with platform resources, ultimately establishing strategic partnerships with over 30 companies. In terms of media marketing, we published Weibo posts about the original series IP “Elite Wolves,” each garnering more than 100,000 views, and capitalized on the AI painting trend by posting content that attracted over 130,000 views on a single Xiaohongshu post. Additionally, we participated in NFT projects such as MARADONA ASS and Meelier MIGU, which were part of China Mobile MiGu's initiatives.
+
+# jazznotes.io
+- project: Analysis of Employment Challenges for Chinese Liberal Arts Graduates
+  role: Group Leader
+  duration: Apr,2023 &mdash; Jul,2023
+  # url: "#"
+  description: Firstly, in data crawling, I wrote a Python script to crawl the official websites and retrieved relevant recruitment data of 24,699 jobs and 12 fields in 24 popular cities. Secondly, for data analysis, I used job demand data to conduct a comprehensive analysis on the employment challenges faced by liberal arts graduates, especially in comparison with science graduates in current China. Finally, in data visualization, I utilized Flourish to vividly present the analyzed data and findings in a dynamic way.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: Intervention on Milk Tea Consumption Intentions Among Female College Students Based on the Health Belief Model and Audio Communication
   role: Group Leader
-  duration: 2007 &mdash; Present
+  duration: Mar,2022 &mdash; Jun,2022
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: As the team leader, I led the project’s data analysis, generating a comprehensive data analysis report and proposing multiple recommendations for sugar reduction interventions. My leadership extended to participating in the Shenzhen Chronic Disease Control and Health Academic Forum, where I presented the project to the Shenzhen Center for Chronic Disease Control, resulting in the acquisition of 11,240 yuan in project funding. Additionally, I followed the SUCCES principle and adhered to the project’s requirements to write scripts for intervention materials. To ensure the smooth operation of the experiment, I recruited 200 participants through various publicity efforts.
